@@ -1,0 +1,4 @@
+public void poliformismo (Figura una){
+    System.out.println("Tipo: "+una.getTipo());
+    System.out.println("Area: "+una.area());    
+}
