@@ -1,20 +1,15 @@
-body {
-    
+body {    
     background-color: rgb(100, 189, 184)
 }
 
 h1{
     text-align: center;
-    color:rgb(1, 5, 17);
+    color:rgb(6, 17, 1);
     
 }
 
-#miid2{
-  border:8px solid rgb(11, 228, 210)
-}
-
 p{
-    background-color: rgb(130, 240, 6); text-align: center
+    background-color: rgb(6, 115, 240); text-align: center
 }
 
 #miid3{
