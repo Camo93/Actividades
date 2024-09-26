@@ -1,0 +1,205 @@
+header{
+	width: auto;
+	height: auto;
+	border: 0px solid #000000;
+}
+
+table #logo{
+	width: auto;
+	height: 100px;
+	border: 0px solid #000000;
+	background: #F1F1E8;
+    float: left;
+	font-size:15px;font-family:trebuchet;color:white
+}
+
+img{
+	width:200px;
+	height:200px;
+}
+
+#tel{
+	width:20px;
+	height:20px;
+}
+
+p,#localizacion,#contactenos{
+	font-size:15px;
+	font-family:trebuchet;
+	text-align:center-left;
+	color:rgb(250, 245, 245);
+}
+
+#inicio,#turismo,#habitaciones,#servicios,#hazreserva,#cancelaciones{
+	font-size:20px;
+	font-family:trebuchet;
+	text-align:center-left;
+	color:white;
+}
+
+table #principal{
+	width:100%
+	cellspacing:10px; 
+	cellpadding:10px;
+}
+
+#principal{
+	width: 20;
+	height: auto; overflow: hidden;
+	border: 0px solid #000000;;
+    background: #ecece6;
+}
+
+#localizacion2,#bienvenidos{
+	font-size:30px;
+	font-family:trebuchet;
+	color:black;
+	text-align:center;
+}
+
+iframe{
+    width:400px; 
+    height:300px; 
+    mask-border:0px;
+    border:0;
+}
+
+#epilogo{
+	font-size:20px;
+	font-family:trebuchet;
+	color:black;
+	text-align:center
+}
+
+#gal{
+	font-size:30px;
+	font-family:trebuchet;
+	color:black;
+	text-align:center;
+}
+#galeria{
+	width:100%;
+	cellspacing:10px; 
+	cellpadding:10px;
+}
+
+
+
+.menu-top{
+	float:right;
+}
+
+.clearfix{
+	overflow:auto;
+}
+
+#logo2{
+	font-size:30px;
+	font-family:trebuchet;
+	color:white;
+	text-align:left;
+	width: auto;
+	height: 120px;
+	border: 0px solid #000000;
+	background: #0eb32a;
+    float: center;
+	text-align:right-side;
+	
+}
+
+#alojamientofamiliar{
+	font-size:30px;
+	font-family:trebuchet;
+	color:white;
+	text-align:left-side;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	background:#8A9A5B;
+    color: #8A9A5B;
+    transition: background 1s,color 1s;	
+}
+
+#panel{
+	margin-top: auto;
+    width: 1400px;
+    height: 400px;
+    margin-top: auto;
+    float: left;
+}
+
+#categorias{
+    width: 1400px;
+    height:auto; overflow: hidden;
+    margin-top: 10px solid; 
+}
+
+
+
+.uno{
+    width: auto;
+    height: auto; overflow: hidden;
+    border: 1px;
+    float: 50px;
+    margin-left: 2px;
+    margin-right: 3px;
+    text-align: left-side;
+}
+
+.unos{
+   width: auto;
+    height: auto; overflow: hidden;
+    border: 1px;
+    float: 50px;
+    margin-left: 2px;
+    margin-right: 3px;
+    text-align: center;
+}
+
+.dos{
+	margin-top: auto;
+	margin-right: 10px;
+}
+
+.leer-mas{
+	text-decoration: none;
+	border: 0px solid #010101;
+	padding: 5px 5px 5px 5px;
+    margin: auto;
+    text-decoration: none;
+    color: #000000;
+}
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #fff;
+}
+
+.leer-mas:hover{
+	background: #548a12;
+	color: #548a12;
+	transition: background 1s,color 1s;
+}
+
+.ver-mas{
+    text-decoration: none;
+	border: 0px solid #010101;
+	padding: 8px 8px 8px 8px;
+    margin: auto;
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.ver-mas:hover{
+	background: #548a12;
+	color: #548a12;
+	transition: background 1s,color 1s;
